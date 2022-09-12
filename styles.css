@@ -5,6 +5,7 @@ body {
 .container {
   display: block;
   margin: 20px;
+  border: 1px solid gray
 }
 h1,
 h2 {
@@ -22,7 +23,7 @@ h2 {
 .input-group {
   position: relative;
   background: #fff;
-  top: -425px;
+  top: -435px;
   left: 400px;
 }
 .effect {
@@ -61,4 +62,9 @@ h2 {
 .col5 {
   border: 1px solid gray;
   margin-left: 10px;
+}
+.footer {
+  text-align: left;
+  font-size: 15px;
+  margin: 130px;
 }
